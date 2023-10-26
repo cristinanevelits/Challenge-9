@@ -14,7 +14,8 @@ Table of Contents links navigate to respective README sections
 
 ## Screenshots:
 
-![Screenshot#1](https://github.com/cristinanevelits/Challenge-9/blob/main/Develop/images/Screenshot%202023-10-25%20at%2011.16.23%20PM.png) 
+![Screenshot#1](https://github.com/cristinanevelits/Challenge-9/blob/main/Develop/images/Screenshot%202023-10-25%20at%2011.16.23%20PM.png)
+ ![VIDEO](https://github.com/cristinanevelits/Challenge-9/blob/main/Develop/images/Challenge9.webm)
 
 
 ## GitHub Repo link: https://github.com/cristinanevelits/Challenge-9
