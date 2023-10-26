@@ -14,15 +14,10 @@ Table of Contents links navigate to respective README sections
 
 ## Screenshots:
 
-![Screenshot#1]()
-![Screenshot#2]()
-![Screenshot#3]()
-![Screenshot#4]()
-
-## Link to deployed website:  
+![Screenshot#1](https://github.com/cristinanevelits/Challenge-9/blob/main/Develop/images/Screenshot%202023-10-25%20at%2011.16.23%20PM.png) 
 
 
-## GitHub Repo link: 
+## GitHub Repo link: https://github.com/cristinanevelits/Challenge-9
 
 ## Credits
 
